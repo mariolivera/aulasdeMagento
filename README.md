@@ -90,3 +90,4 @@ install-magento2
 | `bin/grunt`  | Use Grunt specifically in your theme or completely, it'll do the deploy and the watcher.  | `./grunt luma` |
 | `bin/xdebug`  |  Enable / Disable the XDebug | |
 | `bin/composer`  |  Use Composer commands | `./composer update` |
+# aulasdeMagento
